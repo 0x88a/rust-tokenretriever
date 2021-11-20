@@ -1,2 +1,2 @@
-# rust-tokenstealer
-A Discord token stealer coded in Rust
+# rust-tokenretriever
+A Discord token retriever coded in Rust
